@@ -1,3 +1,3 @@
 # validation_spring
 
-fastcampus 강의 수강 😎
+fastcampus 강의 수강 - validation 😎
